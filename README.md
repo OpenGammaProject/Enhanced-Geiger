@@ -19,6 +19,15 @@ Failed project of mine to build an improved version of the [Better Geiger](https
 - Mounting the SiPM on the scintillator and that whole assembly onto the PCB so that it doesn't fall apart immediately is also a big problem.
 - Finding an off-the-shelf case that could fit a device like this without needing heavy work/machining is practically impossible. A custom-built case would be needed, but that's way to expensive considering there is not much commercial value in this project. Maybe you could 3D-print something, but I don't have a printer lol.
 
-----
+## Misc Photos
+
+Here are two photos of what the first iteration of the board with the display looked like (latest iteration is the second one) just to demonstrate the software.
+
+<p align="center">
+	<img src="Docs/demo1.jpg" height="500px">
+	<img src="Docs/demo2.jpg" height="500px">
+</p>
+
+---
 
 Have fun with the files. Do whatever the hell you want with it in accordance to the license.
