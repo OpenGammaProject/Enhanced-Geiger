@@ -21,7 +21,7 @@ Failed project of mine to build an improved version of the [Better Geiger](https
 
 ## Misc Photos
 
-Here are two photos of what the first iteration of the board with the display looked like (latest iteration is the second one) just to demonstrate the software.
+Here are two photos of what the first iteration of the board with the display looked like (latest iteration is the second one) just to demonstrate the software. The second iteration board is a lot more sound on most of the connections and board layout.
 
 <p align="center">
 	<img src="Docs/demo1.jpg" height="500px">
