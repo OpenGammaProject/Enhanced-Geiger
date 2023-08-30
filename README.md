@@ -13,10 +13,19 @@ Failed project of mine to build an improved version of the Better Geiger. Some p
 
 ## What didn't work?
 
-- Getting signal from the plastic scintillator. I could only get 
+- Getting signal from the plastic scintillator. I could only get
 - It would be more expensive of course. At least somewhere double the price, depending on your profit margin obviously. But that wasn't actually a goal, so it's more neutral.
 - Mounting the SiPM on the scintillator and that whole assembly onto the PCB so that it doesn't fall apart immediately is also a big problem.
 
-----
+## Misc Photos
+
+Here are two photos of what the first iteration of the board with the display looked like (latest iteration is the second one) just to demonstrate the software.
+
+<p align="center">
+	<img src="Docs/demo1.jpg" height="500px">
+	<img src="Docs/demo2.jpg" height="500px">
+</p>
+
+---
 
 Have fun with the files. Do whatever you want with it in accordance to the LICENSE.
