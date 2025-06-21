@@ -31,3 +31,5 @@ Here are two photos of what the first iteration of the board with the display lo
 ---
 
 Have fun with the files. Do whatever the hell you want with it in accordance to the license.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
